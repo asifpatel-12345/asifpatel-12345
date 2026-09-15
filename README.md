@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**asifpatel-12345/asifpatel-12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Asif Patel 👋
 
-Here are some ideas to get you started:
+### BCS Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning software development by building
+practical projects and improving my coding skills.
+
+## 🛠️ Skills
+
+- HTML, CSS, JavaScript
+- C, C++, Java and Python
+- Git and GitHub
+- Learning Data Structures and Algorithms
+
+## 🚀 Featured Projects
+
+- Student Skill & Course Management System
+- NovaBank
+- Developer Portfolio
+- Calculator App
+
+## 🎯 Currently Learning
+
+- Full-Stack Web Development
+- Data Structures and Algorithms
+- Cybersecurity Fundamentals
+- Data Science and Data Analysis
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/asifpatel-12345
+- LinkedIn: www.linkedin.com/in/asif-patel-886449420
