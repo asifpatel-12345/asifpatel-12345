@@ -15,6 +15,7 @@ practical projects and improving my coding skills.
 
 ## 🚀 Featured Projects
 
+- smart-factory-ai
 - Student Skill & Course Management System
 - NovaBank
 - Developer Portfolio
